@@ -1,0 +1,10 @@
+@font-face {
+    font-family: playpens;
+    src: url("./Playpen_Sans/PlaypenSans-Regular.ttf");
+}
+*{
+    font-family: playpens;
+}
+h1{
+    text-align: center;
+}
